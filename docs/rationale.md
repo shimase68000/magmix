@@ -10,9 +10,17 @@ While the X68000 supported 256 and 65,536 color modes, the 16-color mode occupie
 
 ## Why 16-color mode?
 
-At the time, MAG images were frequently brought from PC-98 BBS environments to the X68000.
+At the time, MAG images from PC-98 BBS environments were frequently brought into the X68000.
 
 However, once imported, there was no simple way to combine or overlay images in the 16-color environment.
+
+The 16-color mode also played an important role beyond its technical limitations.
+
+While the X68000's primary graphics culture centered around 65,536 colors,\
+the 16-color environment became a meeting point between PC-98 users and X68000 users.
+
+In this context, the 16-color mode was not just a constrained display mode,\
+but a cultural intersection where different ecosystems met.
 
 ## Filling the Gap
 
@@ -25,7 +33,7 @@ bringing a form of compositional flexibility that had previously been missing.
 
 ## Origin
 
-Originally, MAGMIX was created as a small utility during the development of MAGL,
+Originally, MAGMIX was created as a small utility during the development of MAGL,\
 primarily for debugging purposes.
 
 It was not intended for public release.
